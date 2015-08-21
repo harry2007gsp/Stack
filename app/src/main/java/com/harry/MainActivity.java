@@ -21,7 +21,7 @@ public class MainActivity extends Activity {
         String input, output;
         while (true) {
             Log.d("test", "enter some string");
-            input = getString()
+//            input = getString()
         }
     }
 
